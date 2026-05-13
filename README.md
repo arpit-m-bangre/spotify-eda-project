@@ -1,7 +1,7 @@
 # 🎵 Spotify Exploratory Data Analysis (EDA) Project
 
 ## 🌐 Live Dashboard
-
+![alt text](image.png)
 🔗 https://spotify-eda-project-2026.streamlit.app/
 
 ---
